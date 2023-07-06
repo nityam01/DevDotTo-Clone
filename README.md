@@ -1,2 +1,5 @@
-# Dev.to-Clone-
-Build a Dev.to clone with ReactJS and NodeJS
+# DevTo Clone
+
+> A Fullstack webapp build using MERN stack.
+
+**update soon: work in progress 🚧**
